@@ -18,7 +18,7 @@ AttainU Backend Instructor Assignment
 
 3. Create Post (only admin can create) Post Method, will require `x-access-token` Header - `http://localhost:8082/api/posts/`
 
-4. Get Posts Get Method, will require `x-access-token` Header - `http://localhost:8082/api/posts`
+4. Get Posts Get Method, will require `x-access-token` Header - `http://localhost:8082/api/posts?page=1&limit=10`
 
 5. Update Post (only admin can update) Put Method, will require `x-access-token` Header - `http://localhost:8082/api/posts/:id`
 
