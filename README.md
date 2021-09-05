@@ -4,9 +4,11 @@ AttainU Backend Instructor Assignment
 
 ## Setup
 
-1. Install dependencies - `npm i`
+1. Need to install MongoDB Community Server
 
-2. Run server - `npm run start`
+2. Install dependencies - `npm i`
+
+3. Run server - `npm run start`
 
 ## API Endpoints
 
